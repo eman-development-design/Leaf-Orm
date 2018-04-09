@@ -1,0 +1,26 @@
+{
+    "name": "eman-development-design/leaf-orm",
+    "description": "A super light ORM-ish library for using MongoDB with PHP",
+    "keywords": ["orm", "mongo", "mongodb"],
+    "homepage": "http://emandevelopmentdesign.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Ed Lomonaco",
+        "email": "edlomonaco@emandevelopmentdesign.com",
+        "role": "developer"
+      }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=7.1.0",
+      "mongodb/mongodb": "^1.3"
+    },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0.3"
+  },
+    "autoload": {
+      "psr-4": { "Leaf\\": "src/" }
+    }
+  }

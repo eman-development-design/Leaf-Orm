@@ -6,6 +6,10 @@ A super light ORM-ish library for using MongoDB with PHP
 * PHP 7.1 or newer
 * MongoDB Extension 1.4 or newer
 
+## Installation
+
+```composer require eman-development-design/Leaf-Orm```
+
 ## Usage
 
 There's two simple items, a model and a repository object.

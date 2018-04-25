@@ -4,7 +4,7 @@ A super light ORM-ish library for using MongoDB with PHP
 ## Requirement
 
 * PHP 7.1 or newer
-* MongoDB Extension 1.4 or newer
+* MongoDB Extension 1.1 or newer
 
 ## Installation
 

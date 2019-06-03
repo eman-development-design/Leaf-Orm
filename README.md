@@ -1,6 +1,8 @@
 # Leaf-Orm
 A super light ORM-ish library for using MongoDB with PHP
 
+### This package has been depreciated, the new library to use is [MongoDB Helpers](https://github.com/eman-development-design/mongodb-helpers)
+
 ## Requirement
 
 * PHP 7.1 or newer
